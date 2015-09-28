@@ -1,0 +1,1414 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"str",
+				"strArray	{}"
+			],
+			[
+				"split",
+				"splitStr	(?)"
+			],
+			[
+				"reve",
+				"reverseInputStr(input)"
+			],
+			[
+				"strArr",
+				"strArrDuplicate	[]"
+			],
+			[
+				"spl",
+				"splitInput	[]"
+			],
+			[
+				"re",
+				"resultingArrStr	(?)"
+			],
+			[
+				"resu",
+				"result	{}"
+			],
+			[
+				"result",
+				"resultingArrStr	(?)"
+			],
+			[
+				"req",
+				"request	(?)"
+			],
+			[
+				"a",
+				"authorize	(?)"
+			],
+			[
+				"failure",
+				"failureRedirect"
+			],
+			[
+				"se",
+				"sendFile"
+			],
+			[
+				"logged",
+				"loggedinHomePage"
+			],
+			[
+				"failur",
+				"failureRedirect"
+			],
+			[
+				"displa",
+				"displayName(value)"
+			],
+			[
+				"cal",
+				"callbackURL	(str)"
+			],
+			[
+				"consumer",
+				"consumerSecret	(str)"
+			],
+			[
+				"cons",
+				"consumerKey	(str)"
+			],
+			[
+				"twitter",
+				"twitterAuth	{}"
+			],
+			[
+				"config",
+				"configAuth	(?)"
+			],
+			[
+				"pro",
+				"profile	{}"
+			],
+			[
+				"callback",
+				"callbackURL"
+			],
+			[
+				"con",
+				"configAuth"
+			],
+			[
+				"passw",
+				"passwordField"
+			],
+			[
+				"username",
+				"usernameField"
+			],
+			[
+				"Loca",
+				"localStrategy"
+			],
+			[
+				"expre",
+				"expressSession	(?)"
+			],
+			[
+				"postD",
+				"postDataChunk	(?)"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"bakc",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"final",
+				"finalDestination"
+			],
+			[
+				"sub",
+				"subArr	(num)"
+			],
+			[
+				"index",
+				"indexOf	(?)"
+			],
+			[
+				"cur",
+				"curModHigh	(num)"
+			],
+			[
+				"array",
+				"arrayElements	(?)"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"cha",
+				"charSet	{}"
+			],
+			[
+				"char",
+				"charStr	[]"
+			],
+			[
+				"le",
+				"length	(num)"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"cycle",
+				"cyclePath"
+			],
+			[
+				"cyc",
+				"cyclePath"
+			],
+			[
+				"i",
+				"index"
+			],
+			[
+				"s",
+				"subArray"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"isA",
+				"isAnagram"
+			],
+			[
+				"word",
+				"wordArray"
+			],
+			[
+				"fr",
+				"firstWord"
+			],
+			[
+				"sorted",
+				"sortedArray"
+			],
+			[
+				"wor",
+				"wordArray"
+			],
+			[
+				"permuta",
+				"permutations"
+			],
+			[
+				"to",
+				"toUpperCase"
+			],
+			[
+				"fn",
+				"function"
+			],
+			[
+				"valT",
+				"valToInsert"
+			],
+			[
+				"rever",
+				"reveresedList"
+			],
+			[
+				"sum",
+				"sumCalc"
+			],
+			[
+				"res",
+				"resultArray"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"Sec",
+				"second"
+			],
+			[
+				"Se",
+				"searchStr"
+			],
+			[
+				"cu",
+				"currentImg"
+			],
+			[
+				"two",
+				"two_three"
+			],
+			[
+				"and",
+				"androidText"
+			],
+			[
+				"page",
+				"pagerankText"
+			],
+			[
+				"tehe",
+				"themeParkText"
+			],
+			[
+				"newPos",
+				"newPosX"
+			],
+			[
+				"offs",
+				"offsetLeft"
+			],
+			[
+				"pr",
+				"projDesc"
+			],
+			[
+				"pso",
+				"position"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"anagram",
+				"anagramList"
+			],
+			[
+				"pem",
+				"permutations"
+			],
+			[
+				"rmse",
+				"rmseV"
+			],
+			[
+				"compu",
+				"compute_jaccard_similarity"
+			],
+			[
+				"itemBased",
+				"itemBasedRecommendations"
+			],
+			[
+				"current",
+				"currentTestSet"
+			],
+			[
+				"currentT",
+				"currentTestSet"
+			],
+			[
+				"simil",
+				"similaritySums"
+			],
+			[
+				"simila",
+				"similarity"
+			],
+			[
+				"curren",
+				"currentTestSet"
+			],
+			[
+				"subset",
+				"subset_size"
+			],
+			[
+				"similari",
+				"similarity"
+			],
+			[
+				"comput",
+				"compute_cosine_similarity"
+			],
+			[
+				"userM",
+				"userMovies"
+			],
+			[
+				"toBeRated",
+				"toBeRatedList"
+			],
+			[
+				"compute",
+				"compute_jaccard_similarity"
+			],
+			[
+				"curre",
+				"currentTrainingSet"
+			],
+			[
+				"toBeRa",
+				"toBeRatedKFold"
+			],
+			[
+				"tobeRa",
+				"toBeRatedList"
+			],
+			[
+				"toBeRe",
+				"toBeRatedList"
+			],
+			[
+				"userTwo",
+				"userTwoRatingsArray"
+			],
+			[
+				"userTw",
+				"userTwoRatingsArray"
+			],
+			[
+				"userOne",
+				"userOneRatingsArray"
+			],
+			[
+				"similar",
+				"similarity"
+			],
+			[
+				"jac",
+				"jaccard_sim"
+			],
+			[
+				"jaccard",
+				"jaccard_similarity_score"
+			],
+			[
+				"produc",
+				"productSum"
+			],
+			[
+				"items",
+				"itemsRatings"
+			],
+			[
+				"ratings",
+				"ratings_data"
+			],
+			[
+				"borde",
+				"border-style"
+			],
+			[
+				"mou",
+				"mouseClick"
+			],
+			[
+				"id",
+				"idValue"
+			],
+			[
+				"bubble",
+				"bubble-selected"
+			],
+			[
+				"curr",
+				"currentSentiment"
+			],
+			[
+				"negT",
+				"negTweetsSpaceMountain"
+			],
+			[
+				"wd",
+				"width"
+			],
+			[
+				"wid",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/surakshapai/Documents/Masters Project/codebase/ChallengeApp/models/user.js",
+			"settings":
+			{
+				"buffer_size": 864,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/surakshapai/Documents/suFinalWebsite/public/index.html",
+			"settings":
+			{
+				"buffer_size": 1393,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/surakshapai/Documents/suFinalWebsite/public/css/index.css",
+			"settings":
+			{
+				"buffer_size": 969,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/surakshapai/Documents/Masters Project/codebase/ChallengeApp/public/views/index.html",
+			"settings":
+			{
+				"buffer_size": 1323,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "i",
+		"selected_items":
+		[
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Git:s",
+				"Git: Status"
+			],
+			[
+				"list",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"brack",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"brac",
+				"BracketHighlighter: Enable Debug Mode"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"unin",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"trimmer",
+				"Trimmer: Trim leading AND trailing whitespace."
+			],
+			[
+				"trimm",
+				"Trimmer: Delete empty lines."
+			],
+			[
+				"	",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 529.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/surakshapai/Documents/Masters Project/codebase/ChallengeApp/models",
+		"/Users/surakshapai/Documents/Masters Project/codebase/ChallengeApp/public",
+		"/Users/surakshapai/Documents/Masters Project/codebase/ChallengeApp/public/css",
+		"/Users/surakshapai/Documents/Masters Project/codebase/ChallengeApp/public/views",
+		"/Users/surakshapai/Documents/suFinalWebsite",
+		"/Users/surakshapai/Documents/suFinalWebsite/public",
+		"/Users/surakshapai/Documents/suFinalWebsite/public/css"
+	],
+	"file_history":
+	[
+		"/Users/surakshapai/Documents/suFinalWebsite/js/index.js",
+		"/Users/surakshapai/Documents/suFinalWebsite/index.html",
+		"/Users/surakshapai/Documents/Masters Project/codebase/ChallengeApp/config/passport.js",
+		"/Users/surakshapai/Documents/Masters Project/codebase/ChallengeApp/server.js",
+		"/Users/surakshapai/Documents/Masters Project/codebase/ChallengeApp/config/database.js",
+		"/Users/surakshapai/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/surakshapai/Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/Users/surakshapai/Documents/Practice/JS /anagramPermPal.js",
+		"/Users/surakshapai/Documents/Practice/JS /makePal.js",
+		"/Users/surakshapai/Documents/Masters Project/codebase/ChallengeApp/package.json",
+		"/Users/surakshapai/Documents/Practice/pkg",
+		"/Users/surakshapai/Documents/Masters Project/codebase/ChallengeApp/routes.js",
+		"/Users/surakshapai/Documents/Practice/JS /makePali.js",
+		"/Users/surakshapai/Documents/Practice/JS /index.html",
+		"/Users/surakshapai/Documents/Masters Project/codebase/ChallengeApp/public/views/index.html",
+		"/Users/surakshapai/Documents/Masters Project/codebase/ChallengeApp/views/index.html",
+		"/Users/surakshapai/Documents/Practice/JS /perms.js",
+		"/Users/surakshapai/Documents/Practice/JS /anagramArray.js",
+		"/Users/surakshapai/Documents/Practice/JS /combs.js",
+		"/Users/surakshapai/Documents/Practice/JS /combPerms.js",
+		"/Users/surakshapai/Documents/Masters Project/projectLogin/config/auth.js",
+		"/Users/surakshapai/Documents/Masters Project/projectLogin/package.json",
+		"/Users/surakshapai/Documents/Masters Project/projectLogin/server.js",
+		"/Users/surakshapai/Documents/Masters Project/projectLogin/routes.js",
+		"/Users/surakshapai/Documents/Masters Project/projectLogin/views/index.html",
+		"/Users/surakshapai/Documents/Masters Project/projectLogin/config/passport.js",
+		"/Users/surakshapai/Documents/Masters Project/projectLogin/models/user.js",
+		"/Users/surakshapai/Documents/Masters Project/projectLogin/config/database.js",
+		"/Users/surakshapai/Documents/Masters Project/projectLogin/views/loggedinHomePage.html",
+		"/Users/surakshapai/Documents/Masters Project/projectLogin/views/login.html",
+		"/Users/surakshapai/Documents/Masters Project/projectLogin/views/signup.html",
+		"/Users/surakshapai/Documents/Masters Project/codebase/index.html",
+		"/Users/surakshapai/Documents/Masters Project/projectLogin/MAS Summer 2015.sublime-project",
+		"/Users/surakshapai/Documents/Masters Project/codebase/views/TaskCreate.html",
+		"/Users/surakshapai/Documents/Masters Project/codebase/todo.md",
+		"/Users/surakshapai/Documents/Masters Project/codebase/css/index.css",
+		"/Users/surakshapai/Documents/Masters Project/codebase/views/HeaderViewUserNotLogged.html",
+		"/Users/surakshapai/Documents/Practice/nodePractice/router.js",
+		"/Users/surakshapai/Documents/Practice/nodePractice/index.js",
+		"/Users/surakshapai/Documents/Practice/nodePractice/server.js",
+		"/Users/surakshapai/Documents/Practice/nodePractice/requestHandlers.js",
+		"/Users/surakshapai/Documents/Masters Project/codebase/views/MainView.html",
+		"/Users/surakshapai/Documents/Masters Project/codebase/views/Footer.html",
+		"/Users/surakshapai/Documents/hackerrank/nodeapp.md",
+		"/Users/surakshapai/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/README.md",
+		"/Users/surakshapai/Documents/rey/css/index.css",
+		"/Users/surakshapai/Documents/rey/index.html",
+		"/Users/surakshapai/Documents/rey/js/index.js",
+		"/Users/surakshapai/Documents/rey/js/projects.json",
+		"/Users/surakshapai/Documents/rey/css/justified-nav.css",
+		"/Users/surakshapai/Documents/myWork/index.html",
+		"/Users/surakshapai/Documents/financeApp/index.html",
+		"/Users/surakshapai/Documents/hackerrank/index.html",
+		"/Users/surakshapai/Documents/hackerrank/unorderedanagram.js",
+		"/Users/surakshapai/Documents/hackerrank/maxsubarray.js",
+		"/Users/surakshapai/Documents/hackerrank/hackerrank.sublime-project",
+		"/Users/surakshapai/Documents/hackerrank/diff.js",
+		"/Users/surakshapai/Documents/Web and Text Mining/abc.txt",
+		"/Users/surakshapai/Documents/Web and Text Mining/svd.py",
+		"/Users/surakshapai/Documents/finalWebsite/css/index.css",
+		"/Users/surakshapai/Documents/Web and Text Mining/HW2-Suraksha_Suresh-Pai/pageRank.py",
+		"/Users/surakshapai/Documents/Practice/JS /pascal.js",
+		"/Users/surakshapai/Documents/Practice/JS /shortestISPal.js",
+		"/Users/surakshapai/Documents/Practice/JS /shortestFact.js",
+		"/Users/surakshapai/Documents/Practice/JS /quicksort.js",
+		"/Users/surakshapai/Documents/Practice/JS /allCasePerm.js",
+		"/Users/surakshapai/Documents/Practice/JS /call.js",
+		"/Users/surakshapai/Documents/Practice/JS /guessNumber.js",
+		"/Users/surakshapai/Documents/Practice/JS /newll.js",
+		"/Users/surakshapai/Documents/Practice/JS /mergesort.js",
+		"/Users/surakshapai/Documents/Practice/JS /bst.js",
+		"/Users/surakshapai/Documents/Practice/Python/permutations.py",
+		"/Users/surakshapai/Documents/Practice/JS /quickselect.js",
+		"/Users/surakshapai/Documents/Practice/JS /pal.js",
+		"/Users/surakshapai/Documents/Practice/JS /repeatDelete.js",
+		"/Users/surakshapai/Documents/Practice/JS /findEle.js",
+		"/Users/surakshapai/Documents/Practice/JS /makeAna.js",
+		"/Users/surakshapai/Documents/Practice/JS /forloop.js",
+		"/Users/surakshapai/Documents/Practice/JS /pairsums.js",
+		"/Users/surakshapai/Documents/Practice/Python/anagram.py",
+		"/Users/surakshapai/Documents/Practice/JS /index.js",
+		"/Users/surakshapai/Documents/Web and Text Mining/HW5-Suraksha_suresh-Pai/code/recommender.py",
+		"/Users/surakshapai/Documents/myWork/index.js",
+		"/Users/surakshapai/Documents/Practice/Python/fibo.py",
+		"/Users/surakshapai/Documents/Practice/Python/quicksort.py",
+		"/Users/surakshapai/Documents/Practice/Python/pal.py",
+		"/Users/surakshapai/Documents/Practice/Python/palindromes.py",
+		"/Users/surakshapai/Documents/Practice/Python/fizzbuzz.py",
+		"/Users/surakshapai/Documents/Practice/Python/anagramWithArray.py",
+		"/Users/surakshapai/Documents/Practice/Python/p.py",
+		"/Users/surakshapai/Documents/Web and Text Mining/Recommendation System/itemBasedRecos.txt",
+		"/Users/surakshapai/Documents/Web and Text Mining/Recommendation System/tSet.txt",
+		"/Users/surakshapai/Documents/Web and Text Mining/Recommendation System/ratings_CV.csv",
+		"/Users/surakshapai/Documents/Web and Text Mining/Recommendation System/backup.py",
+		"/Users/surakshapai/Documents/Web and Text Mining/Recommendation System/toBeRated.csv",
+		"/Users/surakshapai/Documents/Web and Text Mining/Recommendation System/userJX.txt",
+		"/Users/surakshapai/Documents/Web and Text Mining/Recommendation System/recommender_kfold.py",
+		"/Users/surakshapai/Documents/Web and Text Mining/Recommendation System/userJ.txt",
+		"/Users/surakshapai/Documents/Web and Text Mining/Recommendation System/ratings.csv",
+		"/Users/surakshapai/Documents/Web and Text Mining/web_updated/recommender.py",
+		"/Users/surakshapai/Documents/Web and Text Mining/hw5/README.txt",
+		"/Users/surakshapai/Documents/Web and Text Mining/hw5/movies.csv",
+		"/Users/surakshapai/Documents/Web and Text Mining/hw5/recommender.py",
+		"/Users/surakshapai/Documents/Web and Text Mining/hw5/recommender_kfold.py",
+		"/Users/surakshapai/Documents/Web and Text Mining/hw5/users.csv",
+		"/Users/surakshapai/Documents/Web and Text Mining/hw5/ratings.csv",
+		"/Users/surakshapai/Documents/Web and Text Mining/hw5/ratings1.csv",
+		"/Users/surakshapai/Documents/Web and Text Mining/hw5/toBeRated.csv",
+		"/Users/surakshapai/Documents/Web and Text Mining/hw5/tbr.csv",
+		"/Users/surakshapai/Documents/HCI/P2 Prototype/css/page.css",
+		"/Users/surakshapai/Documents/HCI/P2 Prototype/landingPage.html",
+		"/Users/surakshapai/Library/Application Support/Sublime Text 3/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/Users/surakshapai/Documents/Web and Text Mining/Homework 2/doc.txt",
+		"/Users/surakshapai/Documents/Web and Text Mining/HW2.py",
+		"/Users/surakshapai/Documents/Web and Text Mining/Homework 2/readme.txt",
+		"/Users/surakshapai/Documents/infoViz/ShowMeTheMoney/index.html",
+		"/Users/surakshapai/Documents/CobeBasev02/js/finalheatmap.js",
+		"/Users/surakshapai/Documents/CobeBasev02/index.html",
+		"/Users/surakshapai/Documents/infoViz/ShowMeTheMoney/bootstrap/js/bootstrap.js",
+		"/Users/surakshapai/Desktop/socalmostfinal/SocialThemePark/viz/css/style.css",
+		"/Users/surakshapai/Desktop/socalmostfinal/SocialThemePark/viz/index.html",
+		"/Users/surakshapai/Desktop/SOCFinal/SocialThemePark/viz/index.html",
+		"/Users/surakshapai/Documents/Info viz pie chart/finalPie.html",
+		"/Users/surakshapai/Desktop/socalmostfinal/SocialThemePark/viz/css/reset.css",
+		"/Users/surakshapai/Desktop/SocialThemePark-master/viz/twitterPage.html",
+		"/Users/surakshapai/Desktop/SOCProject/themePark.html",
+		"/Users/surakshapai/Documents/SOC images trial/images.html",
+		"/Users/surakshapai/Documents/SOC images trial/imagestrial.css"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"auth",
+			"processIn",
+			"console",
+			"fail",
+			"use",
+			"console",
+			"face",
+			"throw",
+			"salt",
+			"passport",
+			"views",
+			"cookie",
+			"aria",
+			"rey",
+			"active",
+			"playfai",
+			"icon",
+			"masthead",
+			"mast",
+			"masthe",
+			"menuUl",
+			"section",
+			"current",
+			"print",
+			"\\t",
+			"\" \"",
+			"pythag",
+			"Pyth",
+			"pyth",
+			"pythf",
+			"pyth",
+			"float:left",
+			"projectSec",
+			"line",
+			"len(u)",
+			"pythag",
+			"print",
+			"consol",
+			"console",
+			"addC",
+			"console",
+			"skillsL",
+			"sectionH",
+			"setdefault",
+			"1231",
+			"1231'",
+			"1231",
+			"482,",
+			"300,",
+			"673",
+			"print",
+			"file.w",
+			"print",
+			"5983,",
+			"34,4",
+			"34,",
+			"toBeRatedList",
+			"print",
+			"2190",
+			"Exorcist",
+			"3279",
+			"6040",
+			"1,",
+			"999, 45, 2, 975364023",
+			"999', '45', '2', '975364023",
+			"4138,",
+			"4138",
+			"1279",
+			"5633",
+			"convergence",
+			"is",
+			"print",
+			"sys",
+			"tag",
+			"main",
+			"dropdown-menu",
+			"boot",
+			"mouseover",
+			"d3-top",
+			"hover",
+			"transform",
+			"idValue",
+			"selected",
+			"updateActive",
+			"click",
+			"the words",
+			"568",
+			"width",
+			"svg",
+			".bubble-selected",
+			"status",
+			"posTweetsBatman",
+			"console",
+			"twitter",
+			"tweets",
+			"tweet",
+			"display",
+			"active",
+			"tweet",
+			"bubble-selected",
+			"tweetsList",
+			"tweets",
+			"tab2",
+			"hulk",
+			"hulkride_tab2",
+			"location",
+			"console",
+			"null",
+			"vis",
+			"tweetsList",
+			"tweest",
+			"reset",
+			"console",
+			"tab",
+			"tabs",
+			"width",
+			"svg",
+			"script",
+			"color",
+			"print",
+			"primary",
+			"myTab",
+			"tab",
+			"print",
+			"0",
+			"print",
+			"words",
+			"init"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"Github",
+			",",
+			"\\n\\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/surakshapai/Documents/Masters Project/codebase/ChallengeApp/models/user.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 864,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/surakshapai/Documents/suFinalWebsite/public/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1393,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1335,
+								1335
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/surakshapai/Documents/suFinalWebsite/public/css/index.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 969,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								213,
+								213
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"open_with_edit": true,
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 84.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/surakshapai/Documents/Masters Project/codebase/ChallengeApp/public/views/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1323,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								32,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "hackerrankjs.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 355.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
